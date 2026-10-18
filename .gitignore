@@ -1,0 +1,16 @@
+
+# Compiled executables
+*.exe
+*.o
+*.obj
+
+# Generated simulation output
+results/*.csv
+
+# Temporary files
+*.tmp
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
